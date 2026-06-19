@@ -145,8 +145,13 @@ try:
     conn.commit()
     conn.close()
 
+    # Exportar CSV a carpeta outputs
+    OUTPUT_PATH = "/home/luiss_2619/mundial_2026/outputs"
+
+    os.makedirs(OUTPUT_PATH, exist_ok=True)
+    
     df_date.to_csv(
-        f"/home/luiss_2619/mundial_2026/scores_{date_score}.csv",
+        f"{OUTPUT_PATH}/scores_{date_score}.csv",
         index=False
     )
 
