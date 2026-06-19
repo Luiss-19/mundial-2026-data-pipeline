@@ -1,0 +1,3 @@
+matchNumber,date,kickoffUtc,stage,group,homeTeam,awayTeam,stadium,hostCity,matchUrl,homeScore,awayScore,status,totalGoals,load_date
+3,2026-06-12,2026-06-12T19:00:00Z,group-stage,B,Canada,Bosnia and Herzegovina,BMO Field,toronto,https://www.thestatsapi.com/world-cup/matches/canada-vs-bosnia-and-herzegovina-2026-06-12,,,pendiente,0,2026-06-17 12:47:22
+4,2026-06-12,2026-06-13T01:00:00Z,group-stage,D,United States,Paraguay,SoFi Stadium,los-angeles,https://www.thestatsapi.com/world-cup/matches/united-states-vs-paraguay-2026-06-12,,,pendiente,0,2026-06-17 12:47:22

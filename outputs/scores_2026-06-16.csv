@@ -1,0 +1,5 @@
+matchNumber,date,kickoffUtc,stage,group,homeTeam,awayTeam,stadium,hostCity,matchUrl,homeScore,awayScore,status,totalGoals,load_date
+17,2026-06-16,2026-06-16T19:00:00Z,group-stage,I,France,Senegal,MetLife Stadium,new-york,https://www.thestatsapi.com/world-cup/matches/france-vs-senegal-2026-06-16,3,1,final,4,2026-06-17 12:50:23
+18,2026-06-16,2026-06-16T22:00:00Z,group-stage,I,Iraq,Norway,Gillette Stadium,boston,https://www.thestatsapi.com/world-cup/matches/iraq-vs-norway-2026-06-16,,,pendiente,0,2026-06-17 12:50:23
+19,2026-06-16,2026-06-17T01:00:00Z,group-stage,J,Argentina,Algeria,Arrowhead Stadium,kansas-city,https://www.thestatsapi.com/world-cup/matches/argentina-vs-algeria-2026-06-16,,,pendiente,0,2026-06-17 12:50:23
+20,2026-06-16,2026-06-17T04:00:00Z,group-stage,J,Austria,Jordan,Levi's Stadium,san-francisco,https://www.thestatsapi.com/world-cup/matches/austria-vs-jordan-2026-06-16,,,pendiente,0,2026-06-17 12:50:23

@@ -1,0 +1,5 @@
+matchNumber,date,kickoffUtc,stage,group,homeTeam,awayTeam,stadium,hostCity,matchUrl,homeScore,awayScore,status,totalGoals,load_date
+13,2026-06-15,2026-06-15T22:00:00Z,group-stage,H,Saudi Arabia,Uruguay,Hard Rock Stadium,miami,https://www.thestatsapi.com/world-cup/matches/saudi-arabia-vs-uruguay-2026-06-15,1,1,final,2,2026-06-17 12:49:02
+14,2026-06-15,2026-06-15T16:00:00Z,group-stage,H,Spain,Cabo Verde,Mercedes-Benz Stadium,atlanta,https://www.thestatsapi.com/world-cup/matches/spain-vs-cabo-verde-2026-06-15,,,pendiente,0,2026-06-17 12:49:02
+15,2026-06-15,2026-06-16T01:00:00Z,group-stage,G,IR Iran,New Zealand,SoFi Stadium,los-angeles,https://www.thestatsapi.com/world-cup/matches/ir-iran-vs-new-zealand-2026-06-15,,,pendiente,0,2026-06-17 12:49:02
+16,2026-06-15,2026-06-15T19:00:00Z,group-stage,G,Belgium,Egypt,Lumen Field,seattle,https://www.thestatsapi.com/world-cup/matches/belgium-vs-egypt-2026-06-15,1,1,final,2,2026-06-17 12:49:02

@@ -1,0 +1,5 @@
+matchNumber,date,kickoffUtc,stage,group,homeTeam,awayTeam,stadium,hostCity,matchUrl,homeScore,awayScore,status,totalGoals,load_date
+9,2026-06-14,2026-06-14T23:00:00Z,group-stage,E,Cote d'Ivoire,Ecuador,Lincoln Financial Field,philadelphia,https://www.thestatsapi.com/world-cup/matches/cote-divoire-vs-ecuador-2026-06-14,,,pendiente,0,2026-06-17 12:48:51
+10,2026-06-14,2026-06-14T17:00:00Z,group-stage,E,Germany,Curacao,NRG Stadium,houston,https://www.thestatsapi.com/world-cup/matches/germany-vs-curacao-2026-06-14,,,pendiente,0,2026-06-17 12:48:51
+11,2026-06-14,2026-06-14T20:00:00Z,group-stage,F,Netherlands,Japan,AT&T Stadium,dallas,https://www.thestatsapi.com/world-cup/matches/netherlands-vs-japan-2026-06-14,,,pendiente,0,2026-06-17 12:48:51
+12,2026-06-14,2026-06-15T02:00:00Z,group-stage,F,Sweden,Tunisia,Estadio BBVA,monterrey,https://www.thestatsapi.com/world-cup/matches/sweden-vs-tunisia-2026-06-14,,,pendiente,0,2026-06-17 12:48:51

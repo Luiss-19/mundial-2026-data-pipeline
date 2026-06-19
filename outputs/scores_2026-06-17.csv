@@ -1,0 +1,5 @@
+matchNumber,date,kickoffUtc,stage,group,homeTeam,awayTeam,stadium,hostCity,matchUrl,homeScore,awayScore,status,totalGoals,load_date
+21,2026-06-17,2026-06-17T23:00:00Z,group-stage,L,Ghana,Panama,BMO Field,toronto,https://www.thestatsapi.com/world-cup/matches/ghana-vs-panama-2026-06-17,,,pendiente,0,2026-06-19 14:49:28
+22,2026-06-17,2026-06-17T20:00:00Z,group-stage,L,England,Croatia,AT&T Stadium,dallas,https://www.thestatsapi.com/world-cup/matches/england-vs-croatia-2026-06-17,4,2,final,6,2026-06-19 14:49:28
+23,2026-06-17,2026-06-17T17:00:00Z,group-stage,K,Portugal,Congo DR,NRG Stadium,houston,https://www.thestatsapi.com/world-cup/matches/portugal-vs-congo-dr-2026-06-17,,,pendiente,0,2026-06-19 14:49:28
+24,2026-06-17,2026-06-18T02:00:00Z,group-stage,K,Uzbekistan,Colombia,Estadio Azteca,mexico-city,https://www.thestatsapi.com/world-cup/matches/uzbekistan-vs-colombia-2026-06-17,,,pendiente,0,2026-06-19 14:49:28
