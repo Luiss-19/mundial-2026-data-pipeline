@@ -1,0 +1,5 @@
+matchNumber,date,kickoffUtc,stage,group,homeTeam,awayTeam,stadium,hostCity,matchUrl,homeScore,awayScore,status,totalGoals,load_date
+29,2026-06-19,2026-06-20T01:00:00Z,group-stage,C,Brazil,Haiti,Lincoln Financial Field,philadelphia,https://www.thestatsapi.com/world-cup/matches/brazil-vs-haiti-2026-06-19,,,pendiente,0,2026-06-19 16:58:31
+30,2026-06-19,2026-06-19T22:00:00Z,group-stage,C,Scotland,Morocco,Gillette Stadium,boston,https://www.thestatsapi.com/world-cup/matches/scotland-vs-morocco-2026-06-19,0,1,final,1,2026-06-19 16:58:31
+31,2026-06-19,2026-06-20T03:00:00Z,group-stage,D,Turkiye,Paraguay,Levi's Stadium,san-francisco,https://www.thestatsapi.com/world-cup/matches/turkiye-vs-paraguay-2026-06-19,,,pendiente,0,2026-06-19 16:58:31
+32,2026-06-19,2026-06-19T19:00:00Z,group-stage,D,United States,Australia,Lumen Field,seattle,https://www.thestatsapi.com/world-cup/matches/united-states-vs-australia-2026-06-19,,,pendiente,0,2026-06-19 16:58:31

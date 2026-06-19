@@ -23,8 +23,15 @@ date_score = args.date_score
 # CONFIGURACIÓN
 # =========================
 URL = "https://www.thestatsapi.com/world-cup/data/fixtures.json"
-DB_PATH = "/home/luiss_2619/mundial_2026/data/mundial2026.db"
-LOG_PATH = "/home/luiss_2619/mundial_2026/logs/score_{}.log".format(date_score)
+BASE_PATH = os.getcwd()
+
+DB_PATH = f"{BASE_PATH}/data/mundial2026.db"
+LOG_PATH = f"{BASE_PATH}/logs/score_{date_score}.log"
+OUTPUT_PATH = f"{BASE_PATH}/outputs"
+
+os.makedirs(f"{BASE_PATH}/data", exist_ok=True)
+os.makedirs(f"{BASE_PATH}/logs", exist_ok=True)
+os.makedirs(OUTPUT_PATH, exist_ok=True)
 
 def search_score(home_team, away_team, date_score):
     url = f"https://www.thesportsdb.com/api/v1/json/3/eventsday.php?d={date_score}&s=Soccer"
@@ -151,7 +158,7 @@ try:
     os.makedirs(OUTPUT_PATH, exist_ok=True)
     
     df_date.to_csv(
-        f"{OUTPUT_PATH}/scores_{date_score}.csv",
+        os.path.join(OUTPUT_PATH, f"scores_{date_score}.csv"),
         index=False
     )
 
